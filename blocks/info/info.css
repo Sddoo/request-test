@@ -1,0 +1,12 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.info__delimiter {
+    height: 80%;
+    width: 1px;
+    background-color: #40bf79;
+}

@@ -1,0 +1,12 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "Myriad Pro", sans-serif;
+    overflow: hidden;
+    background-color: #e8e7e7;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit; /* no underline */
+}

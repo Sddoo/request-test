@@ -1,0 +1,17 @@
+.logo {
+    display: flex;
+    align-items: baseline;
+}
+
+.logo__image {
+    position: relative;
+    top: 6px;
+}
+
+.logo__text {
+    font-size: 25pt;
+    font-weight: 500;
+    font-style: normal;
+    padding-bottom: 4px;
+    padding-left: 6px;
+}
